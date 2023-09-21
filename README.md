@@ -1,4 +1,5 @@
-This project was inspired by "Food Classification with CNNs" by Katherine Gjertsen Link " http://cs230.stanford.edu/projects_fall_2020/reports/55825128.pdf "
+This project was inspired by "Food Classification with CNNs" by Katherine Gjertsen 
+Link " http://cs230.stanford.edu/projects_fall_2020/reports/55825128.pdf "
 the dataset was edited into 10 food classes
 Dataset Link : https://paperswithcode.com/dataset/food-101
 This is a apk which classifies food iamges.
